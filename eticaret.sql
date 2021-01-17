@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: localhost
--- Üretim Zamanı: 19 Tem 2017, 19:22:32
+-- Üretim Zamanı: 10 kasım 2020, 19:22:32
 -- Sunucu sürümü: 5.7.17-log
 -- PHP Sürümü: 5.6.30
 
